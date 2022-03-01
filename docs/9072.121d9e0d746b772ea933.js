@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9072],{9072:(h,l,o)=>{o.r(l),o.d(l,{ion_text:()=>n});var s=o(1035),c=o(5466),r=o(7853);let n=class{constructor(t){(0,s.r)(this,t)}render(){const t=(0,c.b)(this);return(0,s.h)(s.H,{class:(0,r.c)(this.color,{[t]:!0})},(0,s.h)("slot",null))}};n.style=":host(.ion-color){color:var(--ion-color-base)}"}}]);
